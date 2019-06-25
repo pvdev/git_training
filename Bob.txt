@@ -1,3 +1,6 @@
 Hi!! I'm Bob.
 
 And I've got the magic
+
+Add third line.
+
