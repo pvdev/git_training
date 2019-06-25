@@ -11,4 +11,7 @@ Adding third line on change_alice branch
 
 More text being added.
 
+Then a bit later someone made another remote change.
+
+adding before pull and stashing
 
